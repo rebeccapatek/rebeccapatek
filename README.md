@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rebeccapatek
-- 👀 I’m interested in a software developer role as a front-end, back-end or full stack developer.
-- 🌱 I’m currently going back to the beginning and reviewing everything that I learned at Nashville Software School.
-- 💞️ I’m looking to collaborate on e-commerce stores, or helping artists, musicians, and farmers make a better living.
+- 👀 I’m interested in a software developer role as a front-end, back-end or full-stack developer.
+- 💞️ I’m looking to collaborate on e-commerce stores, or help artists, musicians, and farmers make a better living.
 - 📫 How to reach me at rebeccapatek@gmail(dot)com
 
 <!---
